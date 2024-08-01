@@ -1,0 +1,1 @@
+# calcular-hash-de-arquivo
