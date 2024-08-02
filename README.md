@@ -2,7 +2,7 @@
 
 ## Calcula o código hash de um arquivo com base em uma função **_hash_**.
 
-- Este programa usa uma biblioteca Pyhton chamada **_hashlib_**. Ela tem todas as hahes disponiveis no momento.
+- Este programa usa uma biblioteca Pyhton chamada **_hashlib_**. Ela tem todas as hashes disponiveis no momento.
 
 ### O que é uma **_função hash_**?
 
@@ -10,7 +10,7 @@
     Uma função de hash criptográfico, é conhecida como hash - é um algoritmo matemático que transforma qualquer bloco de dados em uma série de caracteres de comprimento fixo.
 </p>
 
-Para saber mais ==> [função hash](https://pt.wikipedia.org/wiki/Fun%C3%A7%C3%A3o_hash).
+Clique para saber mais ==> [função hash](https://pt.wikipedia.org/wiki/Fun%C3%A7%C3%A3o_hash).
 
 <p>
 
@@ -20,11 +20,21 @@ Para saber mais ==> [função hash](https://pt.wikipedia.org/wiki/Fun%C3%A7%C3%A
 
     - Se todos os métodos são válidos, o programa solicita o caminho do arquivo e calcula as hashes usando os métodos escolhidos.
 
+    - O programa retorna as informações no terminal do cliente.
+
 </p>
+
+### Git Clone
+
+[Clone calcular-hash-de-arquivo](https://github.com/cabraldasilvac/calcular-hash-de-arquivo.git)
 
 ### Como usar:
 
-- Rodar o código escrito em 
+- Instalar o python
+
+  `brew install python`
+
+- Rodar o código escrito em
   `python3 <nome-programa> `.
 
 - Escolha o Hash que deseja usar. Pode ser escolhido mais de um. Eles devem ser separados por uma ','.
@@ -32,7 +42,7 @@ Para saber mais ==> [função hash](https://pt.wikipedia.org/wiki/Fun%C3%A7%C3%A
 
 - Informe o caminho e nome do arquivo.
 
-Use este código para fazer os seus testes. Observe o código hash gerado e faça alteração no arquivo. Gere outra hash para obeservar a mudança no código gerado.
+===> Use este código para fazer os seus testes. Observe o código hash gerado e faça alteração no arquivo. Gere outra hash para obeservar a mudança no código gerado.
 
 Prints:
 ![img01](images/img01.png)
