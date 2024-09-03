@@ -1,1 +1,3 @@
 This is a text file that will be used to verify DATA integrity.
+
+Este é um arquivo de texto que será usado para verificar a integridade dos DADOS.
